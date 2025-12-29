@@ -48,6 +48,8 @@
 ## 安装与依赖
 
 1. 克隆或下载项目到本地
+https://github.com/NanmiCoder/MediaCrawler.git
+  
 2. 安装所需依赖：
 
 `ash
